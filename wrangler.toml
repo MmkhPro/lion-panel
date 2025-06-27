@@ -1,9 +1,9 @@
 name = "lion-panel"
 type = "javascript"
-account_id = "اینجا-اکانت-ID-کلودفلر-رو-می‌ذاری"
+account_id = "af1bc6f57a2dac01e5a59766af13b9d0"
 workers_dev = true
 compatibility_date = "2024-06-01"
 
 kv_namespaces = [
-  { binding = "LION_PANEL_NAMESPACE", id = "اینجا-ID-نام‌اسپیس-KV" }
+  { binding = "LION_PANEL_NAMESPACE", id = "27d8812f8f00458880d2f1f2dd03ad51" }
 ]
